@@ -1,5 +1,13 @@
 # jdk11-learning
 
+## jdk11 New Feature
+* launching single program-file without compilation
+* Java.util.collection new method toArray(intFunction)
+* Local Variable syntax for lambda parameters
+* String API changes
+* Optional.isEmpty()
+* Files read strings and write strings
+* HttpClient API
 
 ![img.png](images/img.png)
 
